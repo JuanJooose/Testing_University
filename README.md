@@ -61,5 +61,5 @@ public void ConcatenateStrings_Test_2_True()
 
 <h1 align="center">:blue_book:Bibliografía</h1>
 
-Las bases que se utilizaron para desarrollar el proyecto están en el siguiente [Github](https://github.com/yBetancurr4002/UnitTestingXUnit.)
+Las bases que se utilizaron para desarrollar el proyecto están en el siguiente [Github](https://github.com/yBetancurr4002/UnitTestingXUnit)
 
