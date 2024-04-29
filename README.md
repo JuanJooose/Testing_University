@@ -2,12 +2,15 @@
 
 ## Índice
 1. [Objetivo del proyecto](#Objetivo-del-proyecto)
-2. [Explicacion breve de las pruebas unitarias]
-3. [Bibliografía]
+2. [Explicación breve de las pruebas unitarias](#Explicación-breve-de-las-pruebas-unitarias)
+3. [Bibliografía](#Bibliografía)
 
 
 # Objetivo del proyecto
 Este proyecto de pruebas se hizo con el fin de adquirir conocimientos acerca de como se hacen las pruebas unitarias en C# con xUnit, donde el proyecto toma 11 funciones que interactuan con strings para entregar  diferentes objetivos.
 
+# Explicación breve de las pruebas unitarias
+
+# Bibliografía
 Las bases que se utilizaron para desarrollar el proyecto están en el siguiente link https://github.com/yBetancurr4002/UnitTestingXUnit.
 
