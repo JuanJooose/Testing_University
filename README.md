@@ -1,9 +1,9 @@
 # Pruebas unitarias - Testing 2024-1 Wednesday 2 at 4pm
 
 ## Índice
-* [Objetivo del proyecto](Objetivo del proyecto)
-* [Explicacion breve de las pruebas unitarias]
-* [Bibliografía]
+1. [Objetivo del proyecto] (#Objetivo del proyecto)
+2. [Explicacion breve de las pruebas unitarias]
+3. [Bibliografía]
 
 
 # Objetivo del proyecto
